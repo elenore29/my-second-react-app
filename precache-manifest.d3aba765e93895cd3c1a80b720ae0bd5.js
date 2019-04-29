@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "/my-second-react-app/static/js/runtime~main.7eb22c46.js"
   },
   {
-    "revision": "6ca479fd023a736ddde1",
+    "revision": "294ff8a033a0feba9fd5",
     "url": "/my-second-react-app/static/js/main.ad96c28c.chunk.js"
   },
   {
@@ -16,11 +16,11 @@ self.__precacheManifest = [
     "url": "/my-second-react-app/static/js/2.6e39e941.chunk.js"
   },
   {
-    "revision": "6ca479fd023a736ddde1",
-    "url": "/my-second-react-app/static/css/main.008407a9.chunk.css"
+    "revision": "294ff8a033a0feba9fd5",
+    "url": "/my-second-react-app/static/css/main.886896d4.chunk.css"
   },
   {
-    "revision": "2ee83eb0edb9bbbcd6e22d4d06ebef51",
+    "revision": "810621afadfd3cad35a654acb81695c5",
     "url": "/my-second-react-app/index.html"
   }
 ];
